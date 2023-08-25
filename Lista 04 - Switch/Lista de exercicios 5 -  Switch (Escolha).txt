@@ -1,0 +1,40 @@
+LISTA DE EXERCÍCIOS ESCOLHA - switch()
+
+1. Dado um número, apresentar o mês correspondente.
+   entrada: 5	saída: maio
+   entrada: 13	saída: mês inexistente
+
+2. Dada uma letra, exibir se é vogal ou consoante
+   entrada: a	saída: Vogal
+   entrada: M	saída: consoante
+   entrada: @	saída: não é uma letra
+
+3. Dado um sinal (+, -, / ou *[ou X ou x ou .]) e dois valores, exibir o calculo 
+   correspondente. Obs: se o sinal for de divisão, atentar para que o segundo numero 
+   nao seja zero.                                                     
+   entrada: + 5 6	saída: 11
+   entrada: * 4 3	saída: 12
+   entrada: / 6 0	saída: não ha divisão por zero
+
+
+------ os exercícios 4 e 5 são pros bom -----------------------------------------
+
+4. Dado um caractere, informar se é: "Vogal Maiúscula", "Vogal minuscula", "Consoante
+   Maiúscula", "Consoante minúscula", "Número" ou caractere especial".
+   entrada: A	saída: Vogal Maiúscula
+   entrada: !	saída: Caractere especial
+
+5. Dados os quatro dígitos da placa de um carro em uma variável int, verificar o dia 
+   do rodizio, sabendo-se que:
+   Finais: 1 e 2	Rodizio: Segunda-feira
+   Finais: 3 e 4	Rodizio: Terça-feira
+   Finais: 5 e 6	Rodizio: Quarta-feira
+   Finais: 7 e 8	Rodizio: Quinta-feira
+   Finais: 9 e 0	Rodizio: Sexta-feira
+
+   Entrada: 5	Saída: quarta-feira
+
+	
+
+
+    
